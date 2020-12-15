@@ -46,4 +46,4 @@ The electricity data was downloaded from https://www.ieso.ca/en/Power-Data/Data-
 The weather data was downloaded from https://www.renewables.ninja/.
 
 # Results
-Our goals, methodology and results are explained in full in the provided report.
+Our goals, methodology and results are explained in full in the provided [report](report.pdf).
