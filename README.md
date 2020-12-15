@@ -1,5 +1,5 @@
 # Predicting electricity demand in the Greater Toronto Area
-This project uses time series forecasting, linear models and neural networks in an attempt to accurately predict the hourly electricity demand of the Greater Toronto Area (GTA) for a period of half a year.
+This project uses time series forecasting, linear models and neural networks in an attempt to accurately predict the hourly electricity demand of the Greater Toronto Area (GTA) for a period of half a year.<br>
 
 Our project relies mainly on numpy, pandas, sklearn, statsmodels and PyTorch.
 
@@ -27,7 +27,7 @@ The files should be run in the order:
   <li>Neural_networks.ipynb (colab)</li>
   <li>Final_results.ipynb</li>
 </ol>
-Note: You can run Linear_models.ipynb and Neural_networks.ipynb concurrently. Once Linear_models.ipynb finishes running, you can start running Final_results.ipynb since it relies on the results from Linear_models.ipynb.
+Note: You can run Linear_models.ipynb and Neural_networks.ipynb concurrently. Once Linear_models.ipynb finishes running, you can start running Final_results.ipynb since it relies on the results from Linear_models.ipynb.<br>
 
 You can also access some of the notebooks on Google Colab
 <ul>
@@ -36,14 +36,14 @@ You can also access some of the notebooks on Google Colab
 </ul>
 
 ## External resources
-For the autoencoder we relied on:
-https://medium.com/@vaibhaw.vipul/building-autoencoder-in-pytorch-34052d1d280c
-For the LSTM and GRU training we relied on:
-https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/
-https://www.jessicayung.com/lstms-for-time-series-in-pytorch/
+For the autoencoder we relied on: 
+https://medium.com/@vaibhaw.vipul/building-autoencoder-in-pytorch-34052d1d280c <br>
+For the LSTM and GRU training we relied on: <br>
+https://stackabuse.com/time-series-prediction-using-lstm-with-pytorch-in-python/ <br>
+https://www.jessicayung.com/lstms-for-time-series-in-pytorch/ <br>
 
-The electricity data was downloaded from https://www.ieso.ca/en/Power-Data/Data-Directory.
+The electricity data was downloaded from https://www.ieso.ca/en/Power-Data/Data-Directory. <br>
 The weather data was downloaded from https://www.renewables.ninja/.
 
 # Results
-Our goals, methodology and results are explained in full in the provided [report](report.pdf).
+Our goals, methodology and results are explained in full in the provided [report](Report.pdf).
