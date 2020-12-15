@@ -4,17 +4,19 @@ This project uses time series forecasting, linear models and neural networks in 
 Our project relies mainly on numpy, pandas, sklearn, statsmodels and PyTorch.
 
 # How to navigate the files
-./Data/ <-- raw data set for electricity and weather data
-./IesoMerged.csv <-- Merged electricity dataset
-./MergedDataset.csv <-- Merged electricity and weather dataset with outliers handled.
-./Electricity.ipynb <-- Notebook for extracting our data
-./Outliers.ipynb <-- Notebook for preprocessing and handling outliers
-./Timeseries_Analysis.ipynb <-- Notebook for time series forecasting methods
-./Linear_models.ipynb <-- Notebook for linear model related models and methods
-./Neural_networks.ipynb <-- Notebook for neural network related models
-./Final_results.ipynb <-- Notebook for our final (test set) prediction and metrics
-./best_design_matrix.csv <-- The output from Linear Models to be used for the Final Results notebook
-./output_* <-- All of the related outputs (log runs and plots) for each corresponding notebook (time series, linear models, neural networks and final results).
+<ul>
+	<li>./Data/ <-- raw data set for electricity and weather data</li>
+<li>./IesoMerged.csv <-- Merged electricity dataset</li>
+<li>./MergedDataset.csv <-- Merged electricity and weather dataset with outliers handled.</li>
+<li>./Electricity.ipynb <-- Notebook for extracting our data</li>
+<li>./Outliers.ipynb <-- Notebook for preprocessing and handling outliers</li>
+<li>./Timeseries_Analysis.ipynb <-- Notebook for time series forecasting methods</li>
+<li>./Linear_models.ipynb <-- Notebook for linear model related models and methods</li>
+<li>./Neural_networks.ipynb <-- Notebook for neural network related models</li>
+<li>./Final_results.ipynb <-- Notebook for our final (test set) prediction and metrics</li>
+<li>./best_design_matrix.csv <-- The output from Linear Models to be used for the Final Results notebook</li>
+<li>./output_* <-- All of the related outputs (log runs and plots) for each corresponding notebook (time series, linear models, neural networks and final results).</li>
+	       </ul>
 
 The files should be run in the order:
 <ol>
